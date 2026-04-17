@@ -1,4 +1,0 @@
-- [Accueil](README.md)
-- **📁 Cyber**
-  - [Pentest WIFI](/pentest_wifi.md)
-  - [Pentest AD](/pentest_ad.md)
