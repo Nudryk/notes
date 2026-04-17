@@ -8,4 +8,5 @@ Utilise le menu pour naviguer.
 * [Pentest AD](./cyber/pentest_ad.md)
 
 ## 📁 Réseau
-* [Configuration Switch](./reseau/config.md)
+* Switchs Alcatel
+  * [6360](./reseau/SwitchsAlcatel/6360.md)
