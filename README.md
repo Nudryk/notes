@@ -1,6 +1,6 @@
 # Bienvenue dans mes notes
 
-Ceci est mon espace personnel pour stocker mes idées. 
+Ceci est mon espace personnel pour stocker mes notes. 
 Utilise le menu pour naviguer.
 
 ## 📁 Cyber
